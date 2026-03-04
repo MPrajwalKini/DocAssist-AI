@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+whoosh
+PyMuPDF
+python-docx
+beautifulsoup4
+lxml
+markdown
+httpx
+python-dotenv
+pydantic
