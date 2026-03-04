@@ -67,7 +67,7 @@ ollama pull llama3
 ### 2. Install Python dependencies
 
 ```bash
-cd "d:\Projects\AI Driven Projects\LLM"
+cd "DocAssist-AI"  # Navigate to the project directory
 pip install -r requirements.txt
 ```
 
